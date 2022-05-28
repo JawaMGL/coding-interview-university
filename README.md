@@ -744,7 +744,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
 
 ## Trees
-
+## marking for pause
 - ### Trees - Notes & Background
     - [ ] [Series: Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
     - basic tree construction
